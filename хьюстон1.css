@@ -1,0 +1,25 @@
+body{
+    margin-left:auto ;
+    margin-right:auto ;
+    width: 70%;
+}
+h2,h3{
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+h1{
+    font-family: sans-serif;
+    margin-top: 1.5em;
+    font-size: 32px;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+figcaption{
+    font-style: italic;
+}
+figure{
+    float: right;
+    clear: both;
+}
